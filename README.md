@@ -1,10 +1,9 @@
 # Hello, I'm Nathan
-<a href="www.linkedin.com/in/nathan-valentine-248724429"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nathan-valentine-248724429"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Hello I'm Nathan, I am interested in the cybersecurity world and technology's ever-growing evolution. Currently studying in Bachelor of Information Technology (Cybersecurity), with hands on experience building Python applications and websites, and strong communication skills developed through several years in hospitality. Seeking a junior IT support role where I can contribute to real projects while continuing to build my technical foundations.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
@@ -22,7 +21,9 @@ Other: Communication, Teamwork, Attention to detail, Reliability
 
 ## Certifications
 Certification III Information Technology | 2024 - 2024
+
 Certification IV Cyber security | 2024 – 2025
+
 Bachelor of Information Technology | 2026 -2029
 
 
@@ -37,6 +38,7 @@ Lego Minifigures Website via Oracle Cloud |2024|
 
 •  Hosted and uploaded the site through an Oracle Cloud storage bucket
 
+
 Python area gui calculator: |2024|
 •  Built a Python application with a graphical user interface or GUI to calculate area for different shapes 
 
@@ -45,6 +47,7 @@ Python area gui calculator: |2024|
 •  Tested the calculator with a range of inputs to confirm accurate results across different shapes 
 
 •  Documented the logic and usage steps to explain how the application works
+
 
 
 IT learning portfolio website via WordPress |2026| 
