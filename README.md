@@ -1,4 +1,4 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Nathan
 <a href="www.linkedin.com/in/nathan-valentine-248724429"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
@@ -23,27 +23,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -56,10 +35,25 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-Projects
+Lego Minifigures Website via Oracle Cloud |2024|
+•  Coded a 4 page website with pages being a home, photos, about and contact page in HTML using Visual Studio Code 
+•  Built the site to be responsive, scaling correctly across different screen resolutions and devices 
+•  Tested the different screen resolutions by resizing the page on computer as well as accessing the page on my mobile device.
+•  Hosted and uploaded the site through an Oracle Cloud storage bucket
+
+Python area gui calculator: |2024|
+•  Built a Python application with a graphical user interface or GUI to calculate area for different shapes 
+•  Applied input validation to handle incorrect or unexpected user entries 
+•  Tested the calculator with a range of inputs to confirm accurate results across different shapes 
+•  Documented the logic and usage steps to explain how the application works
+
+IT learning portfolio website via WordPress |2026| 
+
+• Designed and built a website using WordPress's UI, incorporating tables, graphs, and images to showcase coursework from ITECH1500 
+• Explored WordPress's AI generation features as part of the build 
+• Managed site visibility settings, publishing the site publicly or privately as needed
+
+
 
     Detection Lab
     SOC Automation Project
