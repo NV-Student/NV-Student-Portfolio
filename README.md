@@ -54,9 +54,3 @@ IT learning portfolio website via WordPress |2026|
 • Explored WordPress's AI generation features as part of the build 
 
 • Managed site visibility settings, publishing the site publicly or privately as needed
-
-
-
-
-    Detection Lab
-    SOC Automation Project
